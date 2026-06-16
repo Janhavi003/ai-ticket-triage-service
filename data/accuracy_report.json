@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "category": "Billing",
+      "reviewed": 1,
+      "correct": 0,
+      "precision": 0,
+      "correctionPatterns": [
+        {
+          "from": "Billing",
+          "to": "Account",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "category": "Technical",
+      "reviewed": 0,
+      "correct": 0,
+      "precision": 0,
+      "correctionPatterns": []
+    },
+    {
+      "category": "Account",
+      "reviewed": 0,
+      "correct": 0,
+      "precision": 0,
+      "correctionPatterns": []
+    },
+    {
+      "category": "Feature Request",
+      "reviewed": 0,
+      "correct": 0,
+      "precision": 0,
+      "correctionPatterns": []
+    },
+    {
+      "category": "Other",
+      "reviewed": 0,
+      "correct": 0,
+      "precision": 0,
+      "correctionPatterns": []
+    }
+  ],
+  "overallPrecision": 0,
+  "needsPromptRefinement": [
+    {
+      "category": "Billing",
+      "precision": 0
+    }
+  ],
+  "generatedAt": "2026-06-16T05:21:34.130Z"
+}
