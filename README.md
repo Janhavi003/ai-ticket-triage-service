@@ -46,12 +46,6 @@ npm run dev
 
 The API listens on `http://localhost:3000` by default.
 
-## Environment Variables
-
-| Variable | Required | Default | Description |
-|----------|----------|---------|-------------|
-| `PORT` | No | `3000` | HTTP port for the Express server |
-| `ANTHROPIC_API_KEY` | Yes | — | Anthropic API key used for batch triage |
 
 ## Architecture
 
