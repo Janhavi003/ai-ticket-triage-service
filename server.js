@@ -1,8 +1,4 @@
 require('dotenv').config();
-console.log(
-  "API Key Loaded:",
-  !!process.env.ANTHROPIC_API_KEY
-);
 const express = require('express');
 const triageRoutes = require('./routes/triage.routes');
 
